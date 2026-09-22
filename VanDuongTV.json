@@ -1,7 +1,7 @@
 {
   "version": 1,
   "playlist": "httpshttps://raw.githubusercontent.com/jmcfree921/VanDuongTV/refs/heads/main/m3u.txt",
-  "football_playlist": "https://thcoban.github.io/thtt/tttt.m3u",
+  "football_playlist": "https://raw.githubusercontent.com/hoangcon1808/football_json/refs/heads/main/tv.m3u",
   "notice": {
     "enabled": true,
     "title": "Thông báo từ VanDuongTV",
