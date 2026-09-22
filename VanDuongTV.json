@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "playlist": "https://raw.githubusercontent.com/jmcfreetw/VanDuongTV/refs/heads/main/m3u.txt",
+  "playlist": "httpshttps://raw.githubusercontent.com/jmcfree921/VanDuongTV/refs/heads/main/m3u.txt",
   "football_playlist": "https://thcoban.github.io/thtt/tttt.m3u",
   "notice": {
     "enabled": true,
