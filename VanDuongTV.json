@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "playlist": "https://raw.githubusercontent.com/jmcfreetw/VanDuongTV/refs/heads/main/m3u.txt",
+  "football_playlist": "https://thcoban.github.io/thtt/tttt.m3u",
+  "notice": {
+    "enabled": true,
+    "title": "Thông báo từ VanDuongTV",
+    "message": " VanDuongTV CHÚC CÁC BẠN XEM PHIM VUI VẺ, lưu kênh yêu thích ra màn hình android box, giọng nói, lịch phát sóng.., kênh mới sẽ được update khi có nguồn"
+  },
+
+  "update": {
+    "latest_version": 9,
+    "required": false,
+    "title": "THÔNG BÁO VanDuongTV có phiên bản mới cập nhật",
+    "message": "Phiên bản 1.8 đã được phát hành. Bổ sung 1 số kênh truyền hình, giọng nói, kênh yêu thích, lưu vị trí mục phim sự kiện, Rạp phim",
+    "download_url": ""
+  },
+
+  "donate": {
+    "enabled": true,
+    "title": "VanDuongTV",
+    "qr_image": "",
+    "message": "Cảm ơn bạn đã ủng hộ VanDuongTV ❤️"
+  }
+}
