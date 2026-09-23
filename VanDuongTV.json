@@ -13,7 +13,7 @@
     "required": true,
     "title": "THÔNG BÁO VanDuongTV có phiên bản mới cập nhật",
     "message": "Phiên bản 2.1 đã được phát hành. Bổ sung 1 số kênh truyền hình, giọng nói, kênh yêu thích, lưu vị trí mục phim sự kiện, Rạp phim",
-    "download_url": "https://github.com/jmcfree921/VanDuongTV/blob/main/VanDuongTV_2.1.apk"
+    "download_url": "https://github.com/jmcfree921/VanDuongTV/blob/main/VanDuongTV_2.1.apk?raw=true.apk"
   },
 
   "donate": {
