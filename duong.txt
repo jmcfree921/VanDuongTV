@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epg.io.vn/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-tps://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+htps://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/urCWISb.png",VTV2 HD
 #EXTVLCO#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" group-logo="https://i.imgur.com/NB53sZL.png" tvg-logo="https://i.imgur.com/EHjW7mC.png",VTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
