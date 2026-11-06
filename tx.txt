@@ -1,0 +1,40 @@
+{
+  "source1": {
+    "name": "LIVE",
+    "url": "https://vi.stripchats.io/girls/vietnamese",
+    "parse_mode": "extract_stream",
+    "extractor": "stripchat"
+  },
+  "source2": {
+    "name": "NEW LIVE",
+    "url": "https://vi.stripchats.io/",
+    "parse_mode": "extract_stream",
+    "extractor": "chaturbate"
+  },
+   "source3": {
+    "name": "NEW COUPLES",
+    "url": "https://vi.stripchats.io/couples",
+    "parse_mode": "extract_stream",
+    "extractor": "stripchat"
+  },
+    "source4": {
+    "name": "AI",
+    "url": "https://youzidj.com/"
+  },
+  "source5": {
+    "name": "NEW VIDEO",
+    "url": "https://sextop1.house"
+  },
+  "source6": {
+    "name": "VIDEO HD",
+    "url": "https://javhdz.page"
+  },
+    "source7": {
+    "name": "JPN HD",
+    "url": "https://nangcuc01.com"
+  },
+  "source8": {
+    "name": "Ai2",
+    "url": "https://huangguoai.com/"
+  }
+}
